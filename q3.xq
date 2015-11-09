@@ -1,0 +1,1 @@
+doc("property.xml")//PROPERTY[COMMERCIAL and COMMERCIAL//@sqft>1500]//@id

@@ -1,0 +1,10 @@
+<!ELEMENT BookStore (Book+)>
+<!ELEMENT Book (author+, rating+, review*)>
+<!ATTLIST Book title CDATA #REQUIRED>
+<!ATTLIST Book year CDATA #REQUIRED>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT rating EMPTY>
+<!ATTLIST rating rate (0|1|2|3|4|5) #REQUIRED>
+<!ELEMENT review (#PCDATA)>
+<!ATTLIST review username CDATA #IMPLIED>
+

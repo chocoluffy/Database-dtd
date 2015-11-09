@@ -1,0 +1,1 @@
+doc("property.xml")//RENT_AMOUNT[text()>1500]

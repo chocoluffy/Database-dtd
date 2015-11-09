@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BookStore SYSTEM "books.dtd">
+<BookStore>
+	<Book title="steve jobs" year="2010">
+		<author>"bill gates"</author>
+		<rating rate="4"/>
+		<rating rate="3"/>
+		<review username="luffy">"it's a wonderful book"</review>
+	</Book>
+	<Book title="everything store" year="2009">
+		<author>"waffle"</author>
+        <rating rate="4"/>
+        <rating rate="3"/>
+		<review>"it tells the story of Amazon"</review>
+	</Book>
+	<Book title="out of control" year="2008">
+		<author>"Kelly"</author>
+        <rating rate="4"/>
+        <rating rate="3"/>
+		<review username="allen">"it's a book that depicts the future."</review>
+	</Book>
+</BookStore>

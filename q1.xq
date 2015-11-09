@@ -1,0 +1,1 @@
+doc("property.xml")//PROPERTY[2]
